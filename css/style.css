@@ -224,6 +224,7 @@ body {
 }
 .car-phone {
     position: relative;
+    left: 535px;
 }
 .car-figure {
     width: 90px;
