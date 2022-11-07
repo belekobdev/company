@@ -87,6 +87,8 @@ body {
     z-index: 99;
     width: 100%;
     backdrop-filter: blur(3px);
+    overflow: hidden;
+
 }
 
 .header-left {
