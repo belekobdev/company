@@ -224,7 +224,6 @@ body {
 }
 .car-phone {
     position: relative;
-    left: 650px;
 }
 .car-figure {
     width: 90px;
@@ -298,12 +297,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    width: 1600px;
+    /*width: 1600px;*/
 }
 .car-glav {
     position: relative;
     bottom: 440px;
-    left: 100px;
 }
 .card-top img {
     padding-left: 20px;
