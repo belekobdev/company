@@ -99,6 +99,12 @@ body {
     transform: translateX(-1000px);
 }
 }
+.header-right a:hover {
+color: #45f3ff;
+    border-bottom: 2px solid #45f3ff;
+    transform: scale(1.1);
+
+}
 .header-right {
     animation: 2s right ease-in-out;
 }
@@ -140,6 +146,7 @@ body {
     text-transform: uppercase;
     color: #FFFFFF;
     padding: 0 15px;
+    transition: .4s;
 }
 .header {
     display: flex;
